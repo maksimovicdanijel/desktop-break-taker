@@ -25,7 +25,6 @@
       name: 'counter-page',
       data () {
         return {
-
         };
       },
 
